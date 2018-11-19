@@ -1,0 +1,5 @@
+Our bonus features include:
+-Arcade style graphics
+-Intelligent monster movement
+-Bubble cooldown bar
+-Horizontal portals
